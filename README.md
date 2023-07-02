@@ -12,4 +12,4 @@ __Talking about Personal Stuffs:__
 + I`m passionate about Artificial intelligence
    especially in computer vision;  
 + 🗨 Ask me about anything, and I will be happy to help;
-![](https://github.com/dizas9/dizas9/blob/main/gif.gif)https://github.com/dizas9/dizas9/blob/main/gif.gif)
+![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
