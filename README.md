@@ -1,5 +1,5 @@
-## Hey 👋
-## I`m ___Md. Sazidul Islam___. You can call me ___Sazid___.
+### Hey 👋
+### I`m ___Md. Sazidul Islam___. You can call me ___Sazid___.
 ### I am a graduate of Information and Communication Engineering (ICE)👨‍🎓 
 ---
 
