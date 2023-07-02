@@ -11,4 +11,4 @@ __Talking about Personal Stuffs:__
    Node.js and databases MySQL;
 + I`m passionate about Artificial intelligence
    especially in computer vision;  
-+ 🗨 Ask me about anything, and I will be happy to help; <a href="https://github.com/dizas9/dizas9/blob/main/gif.gif" target="blank"><img align="right" src="https://github.com/dizas9/dizas9/blob/main/gif.gif" height="400" /></a>
++ 🗨 Ask me about anything, and I will be happy to help; <a href="https://github.com/dizas9/dizas9/blob/main/gif.gif" target="blank"><img align="justify" src="https://github.com/dizas9/dizas9/blob/main/gif.gif" height="400" /></a>
