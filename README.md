@@ -13,4 +13,4 @@ __Talking about Personal Stuffs:__
    especially in computer vision;  
 + 🗨 Ask me about anything, and I will be happy to help; 
 
-<a href="https://github.com/dizas9/dizas9/blob/main/gif.gif" target="blank"><img align="right" src="https://github.com/dizas9/dizas9/blob/main/gif.gif" height="100" /></a>
+<a href="https://github.com/dizas9/dizas9/blob/main/gif.gif" target="blank"><img align="right" src="https://github.com/dizas9/dizas9/blob/main/gif.gif" height="500" /></a>
