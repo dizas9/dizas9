@@ -14,4 +14,7 @@ __Talking about Personal Stuffs:__
 + I`m passionate about Artificial intelligence
    especially in computer vision;  
 + 🗨 Ask me about anything, and I will be happy to help;
+  <br>
+  ![Readme Card](https://github-readme-stats.vercel.app/api?username=dizas9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
+
 
