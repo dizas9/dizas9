@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey 🙋‍♂️
+## I`m ___Md. Sazidul Islam___. You can call me ___Sazid___.  
 
-<!--
-**dizas9/dizas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a graduate of Information and Communication Engineering (ICE)👨‍🎓 
+---
 
-Here are some ideas to get you started:
+__Talking about Personal Stuffs:__
++ 🛠 with HTML, CSS, Javascript, Python, PHP;
++ Have experience working with Laravel, VueJs, and the Flask Framework;
++ I`m familiar with back-end technologies such as Node.js and databases MySQL;
++ I`m passionate about Artificial intelligence, especially in computer vision.;  
++ 🗨 Ask me about anything, and I will be happy to help; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
