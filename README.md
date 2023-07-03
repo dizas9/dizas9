@@ -16,10 +16,10 @@ __Talking about Personal Stuffs:__
 + 🗨 Ask me about anything, and I will be happy to help;<br>
 ---
 
-<a href="https://github.com/dizas9/github-readme-stats">
+<a href="">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=dizas9&show icons=true&theme=dark" />
 </a>
-<a href="https://github.com/dizas9/convoychat">
+<a href="">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=donut&langs_count=8&card_width=320 icons=true&theme=dark" />
 </a>
 
