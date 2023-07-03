@@ -16,11 +16,10 @@ __Talking about Personal Stuffs:__
 + 🗨 Ask me about anything, and I will be happy to help;<br>
 ---
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizas9&layout=compact)
-
----
-![Readme Card](https://github-readme-stats.vercel.app/api?username=dizas9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dizas9" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=compact&langs_count=8&card_width=320" />
+</a>
 
