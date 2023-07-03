@@ -17,9 +17,9 @@ __Talking about Personal Stuffs:__
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=dizas9&show icons=true&theme=dark" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=dizas9&layout=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=donut&langs_count=8&card_width=320 icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=dark&langs_count=8&card_width=320" />
 </a>
 
