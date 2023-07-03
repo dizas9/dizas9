@@ -17,6 +17,6 @@ __Talking about Personal Stuffs:__
 ---
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=dizas9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
 <div style="align-content: right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizas9&layout=compact)
-</div>div>
+![Right-aligned image][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizas9&layout=compact)
+</div>
 
