@@ -15,11 +15,12 @@ __Talking about Personal Stuffs:__
    especially in computer vision;  
 + 🗨 Ask me about anything, and I will be happy to help;<br>
 ---
-![Readme Card](https://github-readme-stats.vercel.app/api?username=dizas9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
-<div style="text-align: top">
+<div style="text-align: right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizas9&layout=compact)
 
 </div>
+![Readme Card](https://github-readme-stats.vercel.app/api?username=dizas9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
+
 
 
