@@ -17,7 +17,7 @@ __Talking about Personal Stuffs:__
 ---
 
 <a href="https://github.com/dizas9/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=dizas9 icons=true&theme=radical" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=dizas9 icons=true&theme=dark" />
 </a>
 <a href="https://github.com/dizas9/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=donut&langs_count=8&card_width=320 icons=true&theme=dark" />
