@@ -2,6 +2,7 @@
 ### I`m ___Md. Sazidul Islam___. You can call me ___Sazid___.
 ### I am a graduate of Information and Communication Engineering (ICE)👨‍🎓 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dizas9&label=Profile%20views&color=0e75b6&style=flat" alt="dizas9" /> </p>
 <img align="right" src='https://github.com/dizas9/dizas9/blob/main/gif.gif' width="250"/><br>
 
 
@@ -22,4 +23,5 @@ __Talking about Personal Stuffs:__
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizas9&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+
 
