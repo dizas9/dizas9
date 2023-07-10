@@ -17,7 +17,7 @@ __Talking about Personal Stuffs:__
 + 🗨 Ask me about anything, and I will be happy to help;<br>
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dizas9">
   <img height=200 align="left" src="https://github-readme-states.dizas9.vercel.app/api?username=dizas9&theme=radical&show" />
 </a>
 
