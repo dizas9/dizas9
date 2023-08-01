@@ -18,6 +18,6 @@ __Talking about Personal Stuffs:__
 ---
 
 <a href="https://github.com/dizas9">
-  <img height=200 align="left" src="https://github-readme-states.dizas9.vercel.app/api?username=dizas9&theme=radical&show" />
+  <img height=200 align="left" src="https://github-readme-states1.dizas9.vercel.app/api?username=dizas9&theme=radical&show" />
 </a>
 
