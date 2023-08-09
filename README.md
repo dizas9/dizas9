@@ -1,6 +1,6 @@
 ### Hey 👋
 ### I`m ___Md. Sazidul Islam___. You can call me ___Sazid___.
-### I am a graduate of Information and Communication Engineering (ICE)👨‍🎓 
+### See My Work in, [CodePen](https://codepen.io/your-work)
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizas9&label=Profile%20views&color=0e75b6&style=flat" alt="dizas9" /> </p>
 <img align="right" src='https://github.com/dizas9/dizas9/blob/main/gif.gif' width="250"/><br>
